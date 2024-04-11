@@ -36,13 +36,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yangyubing4397/cou
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="20%">
 
 
 
 
 ## 我的技术栈  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="20%">
 
 
 
