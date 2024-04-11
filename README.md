@@ -36,13 +36,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yangyubing4397/cou
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="20%">
+<table><tr><td valign="top" width="45%">
 
 
 
 
 ## 我的技术栈  
-<table><tr><td valign="top" width="20%">
+<table><tr><td valign="top" width="15%">
 
 
 
@@ -61,7 +61,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yangyubing4397/cou
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="15%">
 
 
 
@@ -80,7 +80,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yangyubing4397/cou
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="15%">
 
 
 
